@@ -1,0 +1,2 @@
+# Werewolf
+A Werewolf Game!
