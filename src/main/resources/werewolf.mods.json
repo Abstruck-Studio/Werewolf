@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "id": "werewolf",
+  "name": "Werewolf",
+  "description": "",
+  "license": "GPL-3.0",
+  "entryPoints": {
+    "init": ""
+  },
+  "depends": []
+}
