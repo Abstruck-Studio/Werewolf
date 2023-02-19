@@ -1,11 +1,11 @@
 plugins {
-    id"application"
+    id "application"
 }
 applicationDefaultJvmArgs = ['-Dlog4j.skipJansi=false']
 
 apply plugin :"java"
 ext {
-    javaMainClass = "org.abstruck.Werewolf"
+    javaMainClass = "org.abstruck.werewolf.Werewolf"
 }
 
 application {
